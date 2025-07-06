@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I’m Raiyan Afridi
 
-<!--
-**Raiyxn/Raiyxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd year IT student specializing in **Information System Security**  
+🔐 Passionate about **cybersecurity**, **network defense**, and **Linux administration**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧰 Skills
+- Networking (Cisco, VLANs, ACLs)
+- Red Hat Linux (RH124)
+- SOC tools (Wireshark, SIEM basics)
+- TryHackMe labs
+- Volatility, Packet Tracer, Wireshark
+
+## 📂 Projects
+- WLAN Deployment Planning
+- SOC Incident Response Simulations
+- Memory Dump Analysis using Volatility
+
+## 📫 How to reach me
+- 📧 raiyan1027@gmail.com
+- 🌐 [LinkedIn]: (https://www.linkedin.com/in/raiyan-afridi-066aa7321/)
+
+
 -->
